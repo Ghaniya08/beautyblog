@@ -13,10 +13,10 @@ const Homepage = () => {
           <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl text-myverydarkpink">Makeup Blog <br />Website</h1>
           <p className='text-myverydarkpink leading-7 [&:not(:first-child)]:mt-6 lg:w-[500px]' >
           Welcome to our Makeup Blog, your go-to destination for the latest beauty 
-           trends, tips, and tutorials! Whether you're a beginner or a makeup pro, we 
+           trends, tips, and tutorials! Whether youre a beginner or a makeup pro, we 
           provide expert advice,  product reviews, and step-by-step guides to help you
           perfect your look. Explore the world of beauty with us and discover your unique
-           style through  our curated content designed to inspire confidence and creativity."
+           style through  our curated content designed to inspire confidence and creativity.
           </p>      
           </div>
           <div className='lg:block hidden'>
