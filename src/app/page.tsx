@@ -6,7 +6,7 @@ import Trends from "@/components/Trends";
 
 export default function Home() {
   return (
-  <div className="bg-myWhite">
+  <div className="bg-white">
 
     <Homepage/>
 
