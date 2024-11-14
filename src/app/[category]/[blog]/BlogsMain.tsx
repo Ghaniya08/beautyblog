@@ -1,6 +1,5 @@
 "use client"
 import {  useAppSelector } from "../../store/hooks";
-import React, { useState } from "react";
 import { MdAccountCircle } from "react-icons/md";
 import Detailcomp from "@/components/Detailblog";
 import CommentSection from "@/components/Comment";
