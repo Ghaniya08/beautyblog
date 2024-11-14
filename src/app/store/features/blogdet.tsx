@@ -1,4 +1,3 @@
-import { categoryBlog } from '@/app/utilities/mock'
 import { detailblog } from '@/app/utilities/type'
 import { createSlice } from '@reduxjs/toolkit'
 
