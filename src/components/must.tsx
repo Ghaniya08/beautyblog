@@ -22,7 +22,7 @@ const Must = () => {
         5 must have skincare products for Radiant skin.
         </h1>
         <p className="leading-relaxed mb-4 text-myverydarkpink">
-        Experience the best in skincare with our curated selection of luxurious products. Whether you're looking for hydration, rejuvenation, or glow, our range is designed to meet your every need. Discover the power of self-care with gentle formulas that nurture your skin, leaving it soft, smooth, and radiant.
+        Experience the best in skincare with our curated selection of luxurious products. Whether youre looking for hydration, rejuvenation, or glow, our range is designed to meet your every need. Discover the power of self-care with gentle formulas that nurture your skin, leaving it soft, smooth, and radiant.
         </p>
         <button className='bg-mylitpink/100  text-xs space-x-2 w-24 h-7 rounded-2xl text-white mt-4 ml-80'>See Products</button>
       </div>
