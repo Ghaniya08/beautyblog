@@ -41,7 +41,7 @@ const CommentSection = () => {
           <li className='bg-myverydarkpink/30 pb-6 p-2 rounded-lg shadow-sm lg:text-[17px] text-[15px]'>
           <h1 className='text-myverydarkpink font-bold lg:text-[17px]'>Pinned By Ghaniya Khan</h1>
           <h1 className='flex mt-2 lg:mb-4 text-myverydarkpink'><a href="https://github.com/Ghaniya08"><MdAccountCircle className='text-3xl mr-3' /></a> Ghaniya Khan <span className='ml-4'> November 12 2024</span></h1>
-          Thank you for visiting my blog! As a web developer, this website is a part of my practice projects. I'd love to hear about your experience!
+          Thank you for visiting my blog! As a web developer, this website is a part of my practice projects. Id love to hear about your experience!
           Let me Know in the Comment below that How was your experience on my website? Was the content helpful? Any suggestions for improvement?
           Your feedback will help me grow and create better content! 
           <div className="lg:flex lg:gap-5">
