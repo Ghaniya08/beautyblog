@@ -23,7 +23,7 @@ const BlogsMain = ( {params} : { params: { blog: string}  } ) => {
       <h1 className='flex mt-2 lg:mb-4 text-myverydarkpink'><a href="https://github.com/Ghaniya08"><MdAccountCircle className='text-3xl mr-3' /></a> Ghaniya Khan <span className='ml-4'> November 12 2024</span></h1>
       <Detailcomp image={blog[0].image}/>
       <h1 className="scroll-m-20 text-myverydarkpink font-bold lg:pb-2 lg:text-2xl text-xl  tracking-tight mt-6">{blog[0].title}</h1>
-      <p  className='lg:leading-7 text-myverydarkpink lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-3'>{blog[0].description}
+      <p  className='lg:leading-7 text-black lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-3'>{blog[0].description}
       </p>
       <CommentSection/>
 
