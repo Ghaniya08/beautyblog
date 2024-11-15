@@ -35,7 +35,7 @@ const TrendComp = (
         </div>
         <div className="mt-4">
           <h1 className="line-clamp-1 w-[275px] text-[17px] text-myverydarkpink font-semibold">{title}</h1>
-          <h2 className="text-gray-900 title-font text-sm font-medium line-clamp-1 w-[250px] text-start text-myverydarkpink/70 items-start">
+          <h2 className="text-gray-900 title-font text-sm font-medium line-clamp-1 w-[250px] text-start text-black items-start">
          {description}
           </h2>       
         </div>
