@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-myWhite`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-white`}
       >
         <Providers>
         <Navbar/>
